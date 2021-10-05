@@ -1,6 +1,6 @@
 # E-Learning Website
 
-In this project I've used bootstrap as CSS framwork, & created with react. [Click here to see Live Website](https://assignment-09-elearning.netlify.app/).
+In this project I've used bootstrap as CSS framwork, & created with react. [Click here to see Live Website](https://modest-nobel-52d08a.netlify.app/).
 
 ## Features of this Website
 
@@ -24,4 +24,4 @@ In this section you will finds all the student list based on the course.
 
 ## To Learn More Visit the Website from the Link Bellow
 
-Live Website link: https://assignment-09-elearning.netlify.app/
+Live Website link: https://modest-nobel-52d08a.netlify.app/
