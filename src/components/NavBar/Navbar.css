@@ -1,0 +1,29 @@
+.items {
+  list-style: none;
+  margin-right: 30px;
+  font-size: 22px;
+  font-weight: 500;
+  color: white;
+  cursor: pointer;
+  padding: 5px;
+  text-decoration: none;
+  border: 1px solid #34495e;
+  border-radius: 10px;
+  margin-top: 5px;
+  background-color: #1abc9c;
+}
+.items:hover {
+  color: black;
+}
+h2 {
+  margin-top: 5px;
+  color: white;
+  padding: 5px 15px;
+  background-color: #1abc9c;
+  border: 1px solid #34495e;
+  border-radius: 10px;
+}
+
+h2:hover {
+  color: black;
+}
